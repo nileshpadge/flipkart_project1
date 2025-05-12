@@ -4,7 +4,9 @@
 
 This project is an intelligent laptop search assistant built with Streamlit, FAISS, Sentence Transformers, and Groq API (LLaMA3). It helps users find the best laptops based on natural language queries like _"best gaming laptop under ₹50000"_.
 
----
+-
+![ChatGPT Image May 10, 2025, 07_08_59 PM](https://github.com/user-attachments/assets/c612318f-9c10-4048-98ae-2f9c5587c93b)
+
 
 ## 🚀 Features
 
