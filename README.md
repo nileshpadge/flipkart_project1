@@ -15,7 +15,7 @@ Welcome to the **AI-Powered Laptop Recommendation System**! This project uses **
 * Retrieves relevant laptops from a local dataset
 * Uses a local LLM to generate personalized responses
 * Remembers previous interactions for follow-up queries
-* Returns laptop specs and product links
+  
 
 ## 🌐  Web Scraping
 
