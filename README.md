@@ -5,10 +5,6 @@
 Welcome to the **AI-Powered Laptop Recommendation System**! This project uses **LangChain Agents**, **FAISS**, **Sentence Transformers**, and the **Groq API (LLaMA3)** to recommend the best laptops based on user queries like:
 
 
--
-#![ChatGPT Image May 10, 2025, 07_08_59 PM](https://github.com/user-attachments/assets/c612318f-9c10-4048-98ae-2f9c5587c93b)
-
-
 ## 🧠 What It Does
 
 * Understands user queries like “Suggest laptops under ₹60000 for programming”
